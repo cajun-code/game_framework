@@ -1,0 +1,3 @@
+module GameFramework
+  # Your code goes here...
+end
