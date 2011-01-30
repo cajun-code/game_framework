@@ -1,3 +1,4 @@
+
 require 'rubygame'
 require 'game_framework/game'
 
